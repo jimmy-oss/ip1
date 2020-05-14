@@ -18,9 +18,9 @@ export class MyProfileInfoRequestService {
 
   gitApiUrl: string = "http://api.github.com/users/";
   username:string = "jimmy-oss";
-  apiKey:any = "";
-  clientid:string = "";
-  clientsecret:string = "";  
+  apiKey:any = " 92e43ea684121c6baf31f33330a0f093d4229253";
+  clientid:string = "61740d1cd4d82dc1b504682b2f4fa5b541904ccc";
+  clientsecret:string = "c8f90ac751b7c7087a6caa27dedd603c1250119d";  
 
 
   constructor(private http:HttpClient) {
