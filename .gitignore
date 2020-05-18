@@ -45,4 +45,4 @@ testem.log
 .DS_Store
 Thumbs.db
 scr/environments/environment.ptod.ts
-scr/environments.ts
+scr/environments/environments.ts
